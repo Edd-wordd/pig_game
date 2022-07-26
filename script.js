@@ -76,4 +76,4 @@ btnHold.addEventListener('click', function () {
   }
 });
 
-btnNew.addEventListener('click', init());
+btnNew.addEventListener('click', init);
